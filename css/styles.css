@@ -625,11 +625,6 @@ pre code {
     max-width: 540px;
   }
 
-  /* .card:hover, .social-icon:hover { */
-  /* transform: scale(1.02); */
-  /* z-index: 20; */
-  /* border: 2px solid var(--primaryColor); */
-  /* cursor: pointer; */
 }
 
 @media (min-width: 768px) {
