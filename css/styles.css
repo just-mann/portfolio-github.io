@@ -337,7 +337,7 @@ input[type='checkbox'] {
 .card:hover {
   transform: scale(1.22);
   z-index: 20;
-  border: 2px solid #505355;
+  border: 2px solid #3b515f;
   /* cursor: pointer; */
 }
 
