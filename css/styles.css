@@ -10580,6 +10580,7 @@ p.lead {
 .social-icons .social-icon:hover {
   transform: scale(1.5);
   background-color: var(--primaryColor);
+  box-shadow: 5px 10px 18px #000;
 }
 
 .dev-icons {
