@@ -3181,11 +3181,11 @@ fieldset:disabled a.btn {
 }
 .btn-link:hover {
   color: #824027;
-  text-decoration: underline;
+  text-decoration: none;
 }
 .btn-link:focus,
 .btn-link.focus {
-  text-decoration: underline;
+  text-decoration: none;
 }
 .btn-link:disabled,
 .btn-link.disabled {
@@ -4922,7 +4922,7 @@ button #menuBtn:hover {
   content: '/';
 }
 .breadcrumb-item + .breadcrumb-item:hover::before {
-  text-decoration: underline;
+  text-decoration: none;
 }
 .breadcrumb-item + .breadcrumb-item:hover::before {
   text-decoration: none;
@@ -10376,7 +10376,7 @@ a.text-dark:focus {
   }
 
   a:not(.btn) {
-    text-decoration: underline;
+    text-decoration: none;
   }
 
   abbr[title]::after {
